@@ -11,5 +11,6 @@ class HomeController extends Controller
     }
     public function test($id){
         return $id;
+        
     }
 }
